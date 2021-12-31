@@ -1,8 +1,8 @@
 const textConfig = {
   text1: "He luu cậu!",
-  text2: "Tớ có điều này muốn hỏi cậu nhớ phải trả lời thật lòng nhaaa.",
+  text2: "Tớ có điều này muốn hỏi cậu nhớ phải trả lời thật lòng nhaaa:3333.",
   text3: "Cậu yêu tớ có phải không nào ._.",
-  text4: "Nếu cậu ko trả lời mà thoát ra tức là muốn làm vợ tớ rùi đó nha :v",
+  text4: "Nếu cậu ko trả lời mà thoát ra tức là muốn làm ngiu tớ rùi đó nha :v",
   text5: "Cậu mơ à???",
   text6: "Yêu ơi là yêu <3",
   text7: "lí do cậu thích tớ đi :vvvv",
@@ -138,7 +138,7 @@ $(document).ready(function () {
           text: textConfig.text11,
           confirmButtonColor: "#83d0c9",
           onClose: () => {
-            window.location = "http://fb.com";
+            window.location = "http://fb.com/nguyenphan299";
           },
         });
       }
